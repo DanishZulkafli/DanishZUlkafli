@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I’m currently working on WEBMORE'S DIGITAL MARKETING<br>💻 Expertise: HTML5, CSS3, JavaScript, Java, PHP, Python<br>🌐 Frontend: HTML5, CSS3<br>🗄️ Backend: Node.js<br>📱 Mobile App: Flutter<br> 🕸 AI/ML: Weka<br>📦 Databases: MySQL<br>🚀 Deployment: AWS<br>🎮 Game Engines: Unity<br>🎨 UI/UX: Ps, Pr, Ai, Xd, Id, Figma, Woodmart, Liquid Hub, Woodmart, Bootstrap, Spline<br>🌱 Currently exploring: Unity, Spline, Node.js, FLutter, Ai, AWS<br>🔧 Software: Wordpress, Elementor, Divi, Be Builder, Visual Studio, Netbeans IDE, Anaconda, Arduino IDE, Linux, Laravel
+💼 I’m currently working on WEBMORE'S DIGITAL MARKETING<br>💻 Expertise: HTML5, CSS3, JavaScript, Java, PHP, Python<br>🌐 Frontend: HTML5, CSS3<br>🗄️ Backend: Node.js<br>📱 Mobile App: Flutter<br> 🕸 AI/ML: Weka<br>📦 Databases: MySQL<br>🚀 Deployment: AWS<br>🎮 Game Engines: Unity<br>🎨 UI/UX: Ps, Pr, Ai, Xd, Id, Figma, Woodmart, Liquid Hub, Woodmart, Bootstrap, Spline<br>🌱 Currently exploring: Unity, Spline, Node.js, FLutter, Ai, AWS<br>🔧 Software: Wordpress, Elementor, Divi, Be Builder, Visual Studio, Netbeans IDE, Anaconda, Arduino IDE, Linux, Laravelz
 
 
 ## 🌐 Socials:
